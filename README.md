@@ -13,7 +13,7 @@
   <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
 </p>
 <p align="center">
-  Soy estudiante de desarrollo de software y entusiasta de la tecnología. Me especializo en Java, JavaScript, HTML5, CSS3 y Python. Actualmente profundizando en frameworks de JavaScript y conceptos de algoritmos y estructuras de datos. Me motiva crear soluciones eficientes y aprender nuevas herramientas.
+  Soy estudiante de desarrollo de software y entusiasta de la tecnología. Me especializo en Java, JavaScript, HTML5, CSS3, SQL y Python, y también tengo conocimientos en ciberseguridad. Aunque mi enfoque principal es el desarrollo Front-End con frameworks de JavaScript, también profundizo en conceptos de algoritmos y estructuras de datos. Me motiva crear soluciones eficientes y aprender nuevas herramientas.
 </p>
 
 ---
